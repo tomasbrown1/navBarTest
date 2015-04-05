@@ -1,0 +1,12 @@
+body {
+	font-size: 200%;
+}
+
+li {
+	display: inline-block;
+}
+
+.menu {
+	display:none;
+	position: absolute;
+}
